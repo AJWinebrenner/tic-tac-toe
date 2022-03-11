@@ -286,3 +286,18 @@ aside, .p2win::after {
     font-family: 'M PLUS Rounded 1c', sans-serif;
     text-shadow: 0px 0px 15px var(--other-color),0px 0px 10px var(--other-color);
 }
+
+
+
+
+.paint-canvas {
+    background-color: black;
+    border: 1px white solid;
+    display: block;
+    margin: 1rem;
+    padding:
+  }
+  
+  .color-picker {
+    margin: 1rem 1rem 0 1rem;
+  }
